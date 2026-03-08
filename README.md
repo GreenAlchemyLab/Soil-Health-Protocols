@@ -1,5 +1,3 @@
-Pesare i diversi campioni di suolo (per sapere orientativamente quanti grammi abbiamo).
-
 Soil Moisture Content
 In order to express results on a dry weight basis, soil moisture content (M.C.) was measured using the gravimetric method, which consists of a fresh, sieved (2 mm) subsample being weighed, oven dried until there is no further mass loss, and then reweighed when cooled (Robertson and VanderWulp, 2019).
 
